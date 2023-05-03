@@ -1,12 +1,12 @@
 setenv('MSYS_ROOT' , 'MSYS-2020')
-addpath(genpath('C:/Users/giri.aigalikar/Desktop/Git_Clone/test-repo1/JenkinsTest/src'));
-load_system('BrakeJenkins');
-set_param('BrakeJenkins','LaunchReport','off');
+addpath(genpath('C:/Users/ipg-pc/Desktop/DemoPipeline/JenkinsTest/src'));
+load_system('JenkinAcc');
+set_param('JenkinAcc','LaunchReport','off');
 try
-	rtwbuild('BrakeJenkins');
+	rtwbuild('JenkinAcc');
 catch
 	warning('Error while building Model1');
 % 	exit(1);
 end
-save_system('BrakeJenkins');
-close_system('BrakeJenkins');
+save_system('JenkinAcc');
+close_system('JenkinAcc');
