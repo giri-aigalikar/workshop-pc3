@@ -1,0 +1,18 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = GUI-SavedSelections 14
+Selection.N = 1
+Selection.0.Name = Default Drivers
+Selection.0.Info = Default driver selection for all vehicle classes
+Selection.0.N = 6
+Selection.0.0.FName = Car_HDM_Aggressive
+Selection.0.0.Weight = 0.2
+Selection.0.1.FName = Car_HDM_Defensive
+Selection.0.1.Weight = 0.2
+Selection.0.2.FName = Car_HDM_Normal
+Selection.0.2.Weight = 0.8
+Selection.0.3.FName = Truck_HDM_Aggressive
+Selection.0.3.Weight = 0.2
+Selection.0.4.FName = Truck_HDM_Defensive
+Selection.0.4.Weight = 0.1
+Selection.0.5.FName = Truck_HDM_Normal
+Selection.0.5.Weight = 0.8

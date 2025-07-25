@@ -1,0 +1,88 @@
+Logfile - Project update to CarMaker Office 14.0.1
+===============================================================================
+
+Start: 2025-05-06 13:11:51
+
+Cleaning up temporary files...
+  Deleting temporary Test Run, Vehicle and Trailer files
+  Deleting temporary files in road cache
+  >> Finished.
+
+Creating source code backup ...
+  No modifications to source code files found
+  >> Finished.
+
+Deleting cached .node files of imported Movie NX assets...
+  0 Files deleted.
+  >> Finished.
+
+Deleting old unmodified template files...
+  0 Files deleted, 0 errors occurred
+  >> Finished.
+
+Copying new files to project directory...
+  149 Files copied, 0 errors occurred
+  >> Finished.
+
+Converting Simulink models...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting FMUs...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Test Runs and TestSeries...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting IPGRoad files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Vehicle files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Trailer files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting sensor material files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting external sensor parametrization files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Tire files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting configuration files...
+  Data/Config/OutputQuantities
+  -  Info: Quantity 'Sensor.Object.*' replaced by 'Sensor.Object.Vhcl.*'
+  Data/Config/OutputQuantities_Anim
+  -  Warning: Quantity 'Env.RainRate' removed
+  -  Info: Quantity 'Sensor.Camera.*' replaced by 'Sensor.Camera.Vhcl.*'
+  -  Info: Quantity 'Sensor.FSpace.*' replaced by 'Sensor.FSpace.Vhcl.*'
+  -  Info: Quantity 'Sensor.ObjByLane.*' replaced by 'Sensor.ObjByLane.Vhcl.*'
+  -  Info: Quantity 'Sensor.Object.*' replaced by 'Sensor.Object.Vhcl.*'
+  -  Info: Quantity 'Sensor.Radar.*' replaced by 'Sensor.Radar.Vhcl.*'
+  -  Info: Quantity 'Sensor.Road.*' replaced by 'Sensor.Road.Vhcl.*'
+  2 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting IO Configurations...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Scenario Editor template files...
+  >> Finished.
+
+-------------------------------------------------------------------------------
+Update finished successfully. No errors occurred
+-------------------------------------------------------------------------------
+
+End: 2025-05-06 13:12:05

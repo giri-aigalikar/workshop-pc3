@@ -1,0 +1,29 @@
+APPLICATION	CarMaker 14.0.1 - Car_Generic #3 (linux64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 10:43:55
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2025-07-07 14:23:27
+TIME	0.000
+WARNING		Invalid specifier '%v' in result file specification
+SIM_END			0s	0m
+IDLE	14:23:28
+SIM_START	Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking	2025-07-07 14:23:29
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking
+
+TIME	43.291
+SIM_END		Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking	43.283s	677.635m
+SIM_START	Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking	2025-07-07 14:23:31
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking
+
+TIME	42.265
+SIM_END		Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking	42.257s	667.01m
+SIM_START	Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking	2025-07-07 14:23:33
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking
+
+TIME	41.885
+SIM_END		Examples/BasicFunctions/TestAutomation/TestManager/Runs/Braking	41.877s	663.035m
+TIME	118.635
+WARNING		Shutdown initiated

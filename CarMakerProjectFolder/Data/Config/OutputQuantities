@@ -1,0 +1,119 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-OutputQuantities 1
+
+DStore.Format = erg
+DStore.Compression = none
+DStore.dt.fast = 0.001
+DStore.dt.normal = 0.1
+DStore.dt.slow = 0.1
+
+DStore.Quantities.fast:
+DStore.Quantities.normal:
+	Brake.Hyd.Sys.pWB_*
+	Car.CF*.rx
+	Car.CF*.ry
+	Car.CF*.rz
+	Car.CF*.tx
+	Car.CF*.ty
+	Car.CF*.tz
+	Car.CR*.rx
+	Car.CR*.ry
+	Car.CR*.rz
+	Car.CR*.tx
+	Car.CR*.ty
+	Car.CR*.tz
+	Car.Fx*
+	Car.Fy*
+	Car.Fz*
+	Car.LongSlip*
+	Car.muRoad*
+	Car.TrqAlign*
+	Car.TrqOvert*
+	Car.TrqRoll*
+	Car.W*.rot
+	MC.Gen.a_1.*
+	MC.Pitch*
+	MC.Roll*
+	MC.TF.Frc.*
+	MC.TR.Frc.*
+	MC.Yaw*
+	PT.W*.rotv
+	PT.WF.*
+	PT.WR.*
+	Traffic.Ahead.*
+	Traffic.Sheer.*
+	Vhcl.*.LongSlip
+	Vhcl.*.SideSlip
+	AccelCtrl.ACC.DesiredAx
+	AccelCtrl.ACC.DesiredDist
+	AccelCtrl.ACC.DesiredSpd
+	AccelCtrl.ACC.DesiredTGap
+	Brake.Hyd.Sys.pMC
+	DM.Brake
+	DM.BrakeLever
+	DM.Clutch
+	DM.Gas
+	DM.GearNo
+	DM.Lat.ManIdx
+	DM.Lat.StepDist
+	DM.Lat.StepIdx
+	DM.Lat.StepTime
+	DM.Long.ManIdx
+	DM.Long.StepDist
+	DM.Long.StepIdx
+	DM.Long.StepTime
+	DM.Steer.Ang
+	DM.Steer.Trq
+	MC.alHori
+	MC.atHori
+	MC.Distance
+	MC.TF.LongSlip
+	MC.TF.SlipAngle
+	MC.TR.LongSlip
+	MC.TR.SlipAngle
+	MC.v
+	PT.Clutch.0.Trq_out
+	PT.Control.Consump.Fuel.Abs
+	PT.Control.Consump.Fuel.Act
+	PT.Control.Consump.Fuel.Avg
+	PT.Engine.be
+	PT.Engine.rot
+	PT.Engine.rotv
+	PT.Engine.Trq
+	PwrD.Tire.CambDeflFL
+	PwrD.Tire.CambDeflFR
+	PwrD.Tire.LatSlipFL
+	PwrD.Tire.LatSlipFR
+	PwrD.Tire.LongSlipFL
+	PwrD.Tire.LongSlipFR
+	PwrD.Tire.RollResistFL
+	PwrD.Tire.RollResistFR
+	PwrD.Tire.ToeSlipFL
+	PwrD.Tire.ToeSlipFR
+	PwrD.Tire.TotalFL
+	PwrD.Tire.TotalFR
+	PwrL.Aero
+	PwrL.Brake
+	PwrL.PT
+	PwrL.Tire
+	PwrL.Total
+	PwrS.Aero
+	PwrS.Brake
+	PwrS.PT
+	PwrS.Tire
+	PwrS.Total
+	Sensor.Collision.Vhcl.Fr1.Count
+	Sensor.Collision.Vhcl.Fr1.ObjId
+	Sensor.Collision.Vhcl.WFL.Count
+	Sensor.Collision.Vhcl.WFL.ObjId
+	Sensor.Collision.Vhcl.WFR.Count
+	Sensor.Collision.Vhcl.WFR.ObjId
+	Sensor.Collision.Vhcl.WRL.Count
+	Sensor.Collision.Vhcl.WRL.ObjId
+	Sensor.Collision.Vhcl.WRR.Count
+	Sensor.Collision.Vhcl.WRR.ObjId
+	Sensor.Object.Vhcl.RadarL.relvTgt.NearPnt.ds_p
+	Steer.WhlAng
+	Time
+	Vhcl.sRoad
+DStore.Quantities.slow:

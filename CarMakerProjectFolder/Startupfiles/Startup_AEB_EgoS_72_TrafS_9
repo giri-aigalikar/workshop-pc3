@@ -1,0 +1,19 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-Startup 1.0
+FileCreator = CarMaker Office 14.0.1
+TestRun = AEB_OH2025_L1
+TmpFName =
+User = giri
+Variation = Variation 0
+Instance = 000005
+SimEnd = SimEnd_000005
+DumpDDict = 1
+ApoAvailable = 0
+SaveMode = 2
+msHistory = 0
+DataPools:
+	/opt/ipg/carmaker/linux64-14.0.1
+nv.EgoSpeed = 72
+nv.TrafficSpeed = 9
+kv.TestMgr.Cmds.N = 0
+kv.SimParameters\:DStore.OutPath = SimOutput/AEB_EgoS_72TrafS_9
